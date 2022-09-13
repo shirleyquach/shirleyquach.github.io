@@ -1,3 +1,5 @@
-remote-theme: jekyll-theme-minimal
-title: Shirley's homepage
-description: Something Anything Nothing
+
+title: "Shirley's homepage"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
+search_enabled: false
